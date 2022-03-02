@@ -95,16 +95,7 @@ namespace DiceGame
             else if (randomNumber1 == randomNumber2)
                 Console.WriteLine("Match Draw !");
 
-
-
-
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            TextBox textBox1 = new TextBox();
-           textBox1.Text="hi";
-
-        }
     }
     }
